@@ -1,2 +1,4 @@
 # plutonium2
-The good-ole plutonium with the goodness of angular2 and material design. :)
+The good-ole plutonium with the goodness of angular2, firebase and material design. :)
+
+NOTE: This build is extremely experimental in nature. Clone, Mod & Deploy at your own risk.  pinkHelium is not responsible for armageddon caused due to unstable builds. #YouHaveBeenWarned
